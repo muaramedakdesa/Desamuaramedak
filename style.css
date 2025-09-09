@@ -1,0 +1,10 @@
+body {margin:0; font-family:Arial, sans-serif;}
+header {background:url('../images/foto1.jpg') no-repeat center center/cover; color:white; text-align:center; padding:100px 20px;}
+header .btn {background:green; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;}
+nav {background:#333; text-align:center; padding:10px;}
+nav a {color:white; margin:0 15px; text-decoration:none; font-weight:bold;}
+section {padding:40px 20px;}
+h2 {color:green; margin-bottom:20px;}
+.gallery {display:flex; gap:10px; flex-wrap:wrap;}
+.gallery img {width:30%; border-radius:10px;}
+footer {background:#222; color:white; text-align:center; padding:15px;}
